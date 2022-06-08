@@ -1,8 +1,6 @@
 # shopify-eCommerce-Express
 
 <p align="center">
-
-  <img alt="efba logo" src="https://i.imgur.com/CS05H7T.png" width="150px" />
 </p>
 <h2 align="center">:zap: shopify-eCommerce-Express :zap:</h2>
 <p align="center">
